@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dentadeel/static/css/main.e6e82c2e.css",
+    "main.js": "/Dentadeel/static/js/main.2e390d1f.js",
+    "static/js/488.5dc00adb.chunk.js": "/Dentadeel/static/js/488.5dc00adb.chunk.js",
+    "index.html": "/Dentadeel/index.html",
+    "main.e6e82c2e.css.map": "/Dentadeel/static/css/main.e6e82c2e.css.map",
+    "main.2e390d1f.js.map": "/Dentadeel/static/js/main.2e390d1f.js.map",
+    "488.5dc00adb.chunk.js.map": "/Dentadeel/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e82c2e.css",
+    "static/js/main.2e390d1f.js"
+  ]
+}
